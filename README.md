@@ -10,4 +10,4 @@ An attempt to make a very simple, Personal Assistant that understands speech as 
 7. It can search games you want to play.
 8. It can scrap text from Wikipedia and read the text for you.
 9. It can tell you a joke.
-10.It can search any query on google search engine.
+10. It can search any query on google search engine.
